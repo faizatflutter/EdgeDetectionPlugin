@@ -1,0 +1,22 @@
+{
+  "buildFiles": [
+    "/Users/apple/Documents/own_project/ScanAndBackupLatest/packages/EdgeDetectionFlutterPlugin/android/CMakeLists.txt",
+    "/Users/apple/Library/Android/sdk/ndk/21.1.6352462/build/cmake/android.toolchain.cmake",
+    "/Users/apple/Library/Android/sdk/ndk/21.1.6352462/build/cmake/platforms.cmake"
+  ],
+  "cleanCommands": [
+    "/Users/apple/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/apple/Documents/own_project/ScanAndBackupLatest/packages/EdgeDetectionFlutterPlugin/android/.cxx/cmake/debug/x86\" clean"
+  ],
+  "buildTargetsCommand": "/Users/apple/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/Users/apple/Documents/own_project/ScanAndBackupLatest/packages/EdgeDetectionFlutterPlugin/android/.cxx/cmake/debug/x86\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "native_edge_detection-Debug-x86": {
+      "artifactName": "native_edge_detection",
+      "buildCommand": "/Users/apple/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/apple/Documents/own_project/ScanAndBackupLatest/packages/EdgeDetectionFlutterPlugin/android/.cxx/cmake/debug/x86\" native_edge_detection",
+      "abi": "x86",
+      "output": "/Users/apple/Documents/own_project/ScanAndBackupLatest/packages/EdgeDetectionFlutterPlugin/android/build/intermediates/cmake/debug/obj/x86/libnative_edge_detection.so",
+      "runtimeFiles": [
+        "/Users/apple/Documents/own_project/ScanAndBackupLatest/packages/EdgeDetectionFlutterPlugin/android/src/main/jniLibs/x86/libopencv_java4.so"
+      ]
+    }
+  }
+}

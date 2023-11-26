@@ -1,0 +1,22 @@
+# ninja log v5
+0	2587	1695565326	CMakeFiles/native_edge_detection.dir/Users/apple/Documents/own_project/ScanAndBackupLatest/packages/EdgeDetectionFlutterPlugin/ios/Classes/native_edge_detection.cpp.o	c46611759293895e
+2	2612	1695565326	CMakeFiles/native_edge_detection.dir/Users/apple/Documents/own_project/ScanAndBackupLatest/packages/EdgeDetectionFlutterPlugin/ios/Classes/image_processor.cpp.o	5399a09775d16223
+1	2732	1695565326	CMakeFiles/native_edge_detection.dir/Users/apple/Documents/own_project/ScanAndBackupLatest/packages/EdgeDetectionFlutterPlugin/ios/Classes/edge_detector.cpp.o	93bf2300281ef915
+2732	2871	1695565326	/Users/apple/Documents/own_project/ScanAndBackupLatest/build/simple_edge_detection/intermediates/cxx/Debug/376s526x/obj/arm64-v8a/libnative_edge_detection.so	625ffcc73c9e19fa
+5	591	1695575994	/Users/apple/Documents/own_project/ScanAndBackupLatest/build/simple_edge_detection/intermediates/cxx/Debug/376s526x/obj/arm64-v8a/libnative_edge_detection.so	625ffcc73c9e19fa
+6	507	1697396929	/Users/apple/Documents/own_project/ScanAndBackupLatest/build/simple_edge_detection/intermediates/cxx/Debug/376s526x/obj/arm64-v8a/libnative_edge_detection.so	625ffcc73c9e19fa
+5	613	1697481816	/Users/apple/Documents/own_project/ScanAndBackupLatest/build/simple_edge_detection/intermediates/cxx/Debug/376s526x/obj/arm64-v8a/libnative_edge_detection.so	625ffcc73c9e19fa
+40	646	1697486886	/Users/apple/Documents/own_project/ScanAndBackupLatest/build/simple_edge_detection/intermediates/cxx/Debug/376s526x/obj/arm64-v8a/libnative_edge_detection.so	625ffcc73c9e19fa
+44	1664	1698532535	/Users/apple/Documents/own_project/ScanAndBackupLatest/build/simple_edge_detection/intermediates/cxx/Debug/376s526x/obj/arm64-v8a/libnative_edge_detection.so	625ffcc73c9e19fa
+5	467	1698532893	/Users/apple/Documents/own_project/ScanAndBackupLatest/build/simple_edge_detection/intermediates/cxx/Debug/376s526x/obj/arm64-v8a/libnative_edge_detection.so	625ffcc73c9e19fa
+4	454	1698533438	/Users/apple/Documents/own_project/ScanAndBackupLatest/build/simple_edge_detection/intermediates/cxx/Debug/376s526x/obj/arm64-v8a/libnative_edge_detection.so	625ffcc73c9e19fa
+4	417	1698533634	/Users/apple/Documents/own_project/ScanAndBackupLatest/build/simple_edge_detection/intermediates/cxx/Debug/376s526x/obj/arm64-v8a/libnative_edge_detection.so	625ffcc73c9e19fa
+36	1330	1698536069	/Users/apple/Documents/own_project/ScanAndBackupLatest/build/simple_edge_detection/intermediates/cxx/Debug/376s526x/obj/arm64-v8a/libnative_edge_detection.so	625ffcc73c9e19fa
+36	1280	1698578074	/Users/apple/Documents/own_project/ScanAndBackupLatest/build/simple_edge_detection/intermediates/cxx/Debug/376s526x/obj/arm64-v8a/libnative_edge_detection.so	625ffcc73c9e19fa
+34	1659	1698578843	/Users/apple/Documents/own_project/ScanAndBackupLatest/build/simple_edge_detection/intermediates/cxx/Debug/376s526x/obj/arm64-v8a/libnative_edge_detection.so	625ffcc73c9e19fa
+6	416	1698584598	/Users/apple/Documents/own_project/ScanAndBackupLatest/build/simple_edge_detection/intermediates/cxx/Debug/376s526x/obj/arm64-v8a/libnative_edge_detection.so	625ffcc73c9e19fa
+4	1609	1700335760	/Users/apple/Documents/own_project/ScanAndBackupLatest/build/simple_edge_detection/intermediates/cxx/Debug/376s526x/obj/arm64-v8a/libnative_edge_detection.so	625ffcc73c9e19fa
+37	1509	1700337773	/Users/apple/Documents/own_project/ScanAndBackupLatest/build/simple_edge_detection/intermediates/cxx/Debug/376s526x/obj/arm64-v8a/libnative_edge_detection.so	625ffcc73c9e19fa
+6	684	1700507114	/Users/apple/Documents/own_project/ScanAndBackupLatest/build/simple_edge_detection/intermediates/cxx/Debug/376s526x/obj/arm64-v8a/libnative_edge_detection.so	625ffcc73c9e19fa
+31	585	1700592380	/Users/apple/Documents/own_project/ScanAndBackupLatest/build/simple_edge_detection/intermediates/cxx/Debug/376s526x/obj/arm64-v8a/libnative_edge_detection.so	625ffcc73c9e19fa
+5	401	1700593972	/Users/apple/Documents/own_project/ScanAndBackupLatest/build/simple_edge_detection/intermediates/cxx/Debug/376s526x/obj/arm64-v8a/libnative_edge_detection.so	625ffcc73c9e19fa

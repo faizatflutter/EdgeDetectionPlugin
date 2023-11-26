@@ -1,0 +1,3 @@
+/Users/apple/Documents/own_project/ScanAndBackupLatest/packages/EdgeDetectionFlutterPlugin/android/.cxx/cmake/flavor1Debug/x86/CMakeFiles/rebuild_cache.dir
+/Users/apple/Documents/own_project/ScanAndBackupLatest/packages/EdgeDetectionFlutterPlugin/android/.cxx/cmake/flavor1Debug/x86/CMakeFiles/edit_cache.dir
+/Users/apple/Documents/own_project/ScanAndBackupLatest/packages/EdgeDetectionFlutterPlugin/android/.cxx/cmake/flavor1Debug/x86/CMakeFiles/native_edge_detection.dir

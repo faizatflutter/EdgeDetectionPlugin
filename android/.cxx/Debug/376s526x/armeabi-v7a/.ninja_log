@@ -1,0 +1,22 @@
+# ninja log v5
+0	2262	1695565330	CMakeFiles/native_edge_detection.dir/Users/apple/Documents/own_project/ScanAndBackupLatest/packages/EdgeDetectionFlutterPlugin/ios/Classes/native_edge_detection.cpp.o	1b4b12c5543d9bf7
+1	2298	1695565330	CMakeFiles/native_edge_detection.dir/Users/apple/Documents/own_project/ScanAndBackupLatest/packages/EdgeDetectionFlutterPlugin/ios/Classes/image_processor.cpp.o	6093a02bfa7dcb9d
+0	2452	1695565330	CMakeFiles/native_edge_detection.dir/Users/apple/Documents/own_project/ScanAndBackupLatest/packages/EdgeDetectionFlutterPlugin/ios/Classes/edge_detector.cpp.o	5fc635a139ec16e6
+2453	2545	1695565330	/Users/apple/Documents/own_project/ScanAndBackupLatest/build/simple_edge_detection/intermediates/cxx/Debug/376s526x/obj/armeabi-v7a/libnative_edge_detection.so	b51ff6f864391f47
+5	250	1695575995	/Users/apple/Documents/own_project/ScanAndBackupLatest/build/simple_edge_detection/intermediates/cxx/Debug/376s526x/obj/armeabi-v7a/libnative_edge_detection.so	b51ff6f864391f47
+5	323	1697396930	/Users/apple/Documents/own_project/ScanAndBackupLatest/build/simple_edge_detection/intermediates/cxx/Debug/376s526x/obj/armeabi-v7a/libnative_edge_detection.so	b51ff6f864391f47
+3	265	1697481816	/Users/apple/Documents/own_project/ScanAndBackupLatest/build/simple_edge_detection/intermediates/cxx/Debug/376s526x/obj/armeabi-v7a/libnative_edge_detection.so	b51ff6f864391f47
+5	295	1697486886	/Users/apple/Documents/own_project/ScanAndBackupLatest/build/simple_edge_detection/intermediates/cxx/Debug/376s526x/obj/armeabi-v7a/libnative_edge_detection.so	b51ff6f864391f47
+5	399	1698532537	/Users/apple/Documents/own_project/ScanAndBackupLatest/build/simple_edge_detection/intermediates/cxx/Debug/376s526x/obj/armeabi-v7a/libnative_edge_detection.so	b51ff6f864391f47
+4	250	1698532893	/Users/apple/Documents/own_project/ScanAndBackupLatest/build/simple_edge_detection/intermediates/cxx/Debug/376s526x/obj/armeabi-v7a/libnative_edge_detection.so	b51ff6f864391f47
+4	239	1698533438	/Users/apple/Documents/own_project/ScanAndBackupLatest/build/simple_edge_detection/intermediates/cxx/Debug/376s526x/obj/armeabi-v7a/libnative_edge_detection.so	b51ff6f864391f47
+4	194	1698533634	/Users/apple/Documents/own_project/ScanAndBackupLatest/build/simple_edge_detection/intermediates/cxx/Debug/376s526x/obj/armeabi-v7a/libnative_edge_detection.so	b51ff6f864391f47
+5	197	1698536069	/Users/apple/Documents/own_project/ScanAndBackupLatest/build/simple_edge_detection/intermediates/cxx/Debug/376s526x/obj/armeabi-v7a/libnative_edge_detection.so	b51ff6f864391f47
+4	310	1698578074	/Users/apple/Documents/own_project/ScanAndBackupLatest/build/simple_edge_detection/intermediates/cxx/Debug/376s526x/obj/armeabi-v7a/libnative_edge_detection.so	b51ff6f864391f47
+5	423	1698578844	/Users/apple/Documents/own_project/ScanAndBackupLatest/build/simple_edge_detection/intermediates/cxx/Debug/376s526x/obj/armeabi-v7a/libnative_edge_detection.so	b51ff6f864391f47
+3	221	1698584598	/Users/apple/Documents/own_project/ScanAndBackupLatest/build/simple_edge_detection/intermediates/cxx/Debug/376s526x/obj/armeabi-v7a/libnative_edge_detection.so	b51ff6f864391f47
+4	404	1700335761	/Users/apple/Documents/own_project/ScanAndBackupLatest/build/simple_edge_detection/intermediates/cxx/Debug/376s526x/obj/armeabi-v7a/libnative_edge_detection.so	b51ff6f864391f47
+5	376	1700337774	/Users/apple/Documents/own_project/ScanAndBackupLatest/build/simple_edge_detection/intermediates/cxx/Debug/376s526x/obj/armeabi-v7a/libnative_edge_detection.so	b51ff6f864391f47
+5	298	1700507115	/Users/apple/Documents/own_project/ScanAndBackupLatest/build/simple_edge_detection/intermediates/cxx/Debug/376s526x/obj/armeabi-v7a/libnative_edge_detection.so	b51ff6f864391f47
+4	259	1700592382	/Users/apple/Documents/own_project/ScanAndBackupLatest/build/simple_edge_detection/intermediates/cxx/Debug/376s526x/obj/armeabi-v7a/libnative_edge_detection.so	b51ff6f864391f47
+4	241	1700593972	/Users/apple/Documents/own_project/ScanAndBackupLatest/build/simple_edge_detection/intermediates/cxx/Debug/376s526x/obj/armeabi-v7a/libnative_edge_detection.so	b51ff6f864391f47

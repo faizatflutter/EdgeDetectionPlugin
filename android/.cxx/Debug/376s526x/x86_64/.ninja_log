@@ -1,0 +1,22 @@
+# ninja log v5
+0	1695	1695565335	CMakeFiles/native_edge_detection.dir/Users/apple/Documents/own_project/ScanAndBackupLatest/packages/EdgeDetectionFlutterPlugin/ios/Classes/native_edge_detection.cpp.o	9328bb3c4fe60f0d
+0	1727	1695565335	CMakeFiles/native_edge_detection.dir/Users/apple/Documents/own_project/ScanAndBackupLatest/packages/EdgeDetectionFlutterPlugin/ios/Classes/image_processor.cpp.o	a8425d9ea6338456
+0	1838	1695565335	CMakeFiles/native_edge_detection.dir/Users/apple/Documents/own_project/ScanAndBackupLatest/packages/EdgeDetectionFlutterPlugin/ios/Classes/edge_detector.cpp.o	f0a198094d2e0c32
+1838	1924	1695565336	/Users/apple/Documents/own_project/ScanAndBackupLatest/build/simple_edge_detection/intermediates/cxx/Debug/376s526x/obj/x86_64/libnative_edge_detection.so	d9588e46b2807a32
+3	208	1695575996	/Users/apple/Documents/own_project/ScanAndBackupLatest/build/simple_edge_detection/intermediates/cxx/Debug/376s526x/obj/x86_64/libnative_edge_detection.so	d9588e46b2807a32
+4	240	1697396931	/Users/apple/Documents/own_project/ScanAndBackupLatest/build/simple_edge_detection/intermediates/cxx/Debug/376s526x/obj/x86_64/libnative_edge_detection.so	d9588e46b2807a32
+4	263	1697481818	/Users/apple/Documents/own_project/ScanAndBackupLatest/build/simple_edge_detection/intermediates/cxx/Debug/376s526x/obj/x86_64/libnative_edge_detection.so	d9588e46b2807a32
+7	280	1697486887	/Users/apple/Documents/own_project/ScanAndBackupLatest/build/simple_edge_detection/intermediates/cxx/Debug/376s526x/obj/x86_64/libnative_edge_detection.so	d9588e46b2807a32
+5	331	1698532538	/Users/apple/Documents/own_project/ScanAndBackupLatest/build/simple_edge_detection/intermediates/cxx/Debug/376s526x/obj/x86_64/libnative_edge_detection.so	d9588e46b2807a32
+5	207	1698532894	/Users/apple/Documents/own_project/ScanAndBackupLatest/build/simple_edge_detection/intermediates/cxx/Debug/376s526x/obj/x86_64/libnative_edge_detection.so	d9588e46b2807a32
+6	219	1698533439	/Users/apple/Documents/own_project/ScanAndBackupLatest/build/simple_edge_detection/intermediates/cxx/Debug/376s526x/obj/x86_64/libnative_edge_detection.so	d9588e46b2807a32
+4	238	1698533635	/Users/apple/Documents/own_project/ScanAndBackupLatest/build/simple_edge_detection/intermediates/cxx/Debug/376s526x/obj/x86_64/libnative_edge_detection.so	d9588e46b2807a32
+4	162	1698536070	/Users/apple/Documents/own_project/ScanAndBackupLatest/build/simple_edge_detection/intermediates/cxx/Debug/376s526x/obj/x86_64/libnative_edge_detection.so	d9588e46b2807a32
+4	343	1698578075	/Users/apple/Documents/own_project/ScanAndBackupLatest/build/simple_edge_detection/intermediates/cxx/Debug/376s526x/obj/x86_64/libnative_edge_detection.so	d9588e46b2807a32
+3	306	1698578845	/Users/apple/Documents/own_project/ScanAndBackupLatest/build/simple_edge_detection/intermediates/cxx/Debug/376s526x/obj/x86_64/libnative_edge_detection.so	d9588e46b2807a32
+4	225	1698584599	/Users/apple/Documents/own_project/ScanAndBackupLatest/build/simple_edge_detection/intermediates/cxx/Debug/376s526x/obj/x86_64/libnative_edge_detection.so	d9588e46b2807a32
+4	428	1700335762	/Users/apple/Documents/own_project/ScanAndBackupLatest/build/simple_edge_detection/intermediates/cxx/Debug/376s526x/obj/x86_64/libnative_edge_detection.so	d9588e46b2807a32
+4	330	1700337775	/Users/apple/Documents/own_project/ScanAndBackupLatest/build/simple_edge_detection/intermediates/cxx/Debug/376s526x/obj/x86_64/libnative_edge_detection.so	d9588e46b2807a32
+4	293	1700507116	/Users/apple/Documents/own_project/ScanAndBackupLatest/build/simple_edge_detection/intermediates/cxx/Debug/376s526x/obj/x86_64/libnative_edge_detection.so	d9588e46b2807a32
+5	232	1700592382	/Users/apple/Documents/own_project/ScanAndBackupLatest/build/simple_edge_detection/intermediates/cxx/Debug/376s526x/obj/x86_64/libnative_edge_detection.so	d9588e46b2807a32
+5	192	1700593973	/Users/apple/Documents/own_project/ScanAndBackupLatest/build/simple_edge_detection/intermediates/cxx/Debug/376s526x/obj/x86_64/libnative_edge_detection.so	d9588e46b2807a32

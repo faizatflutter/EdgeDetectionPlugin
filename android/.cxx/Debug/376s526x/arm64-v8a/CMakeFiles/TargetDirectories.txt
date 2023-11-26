@@ -1,0 +1,3 @@
+/Users/apple/Documents/own_project/ScanAndBackupLatest/packages/EdgeDetectionFlutterPlugin/android/.cxx/Debug/376s526x/arm64-v8a/CMakeFiles/rebuild_cache.dir
+/Users/apple/Documents/own_project/ScanAndBackupLatest/packages/EdgeDetectionFlutterPlugin/android/.cxx/Debug/376s526x/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/apple/Documents/own_project/ScanAndBackupLatest/packages/EdgeDetectionFlutterPlugin/android/.cxx/Debug/376s526x/arm64-v8a/CMakeFiles/native_edge_detection.dir
